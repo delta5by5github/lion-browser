@@ -1,0 +1,14 @@
+C:\Users\mabuz\source\repos\lion\lion\bin\Debug\lion.exe.config
+C:\Users\mabuz\source\repos\lion\lion\bin\Debug\lion.exe
+C:\Users\mabuz\source\repos\lion\lion\bin\Debug\lion.pdb
+C:\Users\mabuz\source\repos\lion\lion\obj\Debug\lion.csproj.AssemblyReference.cache
+C:\Users\mabuz\source\repos\lion\lion\obj\Debug\lion.Properties.Resources.resources
+C:\Users\mabuz\source\repos\lion\lion\obj\Debug\lion.csproj.GenerateResource.cache
+C:\Users\mabuz\source\repos\lion\lion\obj\Debug\lion.csproj.CoreCompileInputs.cache
+C:\Users\mabuz\source\repos\lion\lion\obj\Debug\lion.exe
+C:\Users\mabuz\source\repos\lion\lion\obj\Debug\lion.pdb
+C:\Users\mabuz\source\repos\lion\lion\obj\Debug\lion.Form1.resources
+C:\Users\mabuz\source\repos\lion\lion\bin\Debug\lion.exe.manifest
+C:\Users\mabuz\source\repos\lion\lion\bin\Debug\lion.application
+C:\Users\mabuz\source\repos\lion\lion\obj\Debug\lion.exe.manifest
+C:\Users\mabuz\source\repos\lion\lion\obj\Debug\lion.application
